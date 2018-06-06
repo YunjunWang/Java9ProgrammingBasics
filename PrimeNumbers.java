@@ -22,6 +22,7 @@ public class PrimeNumbers {
 				var currNum = primes.get(i);
 				if (currNum != iNum && (iNum % currNum) == 0) {
 					isPrime = false;
+					break; // skip the for loop to save time
 				}
 			}
 			
