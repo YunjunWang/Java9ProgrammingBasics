@@ -1,6 +1,7 @@
 /**
 * find the missing element(> 0) in an integer array A[N]
 * where the value of the element is not in the index of the A
+* @author Yunjun Wang
 */
 
 public class MissingElmInIntegArray {
