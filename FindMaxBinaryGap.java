@@ -1,6 +1,6 @@
 /**
 *finding max binary gap in a given number
-*
+*@author Yunjun Wang
 */
 public class FindMaxBinaryGap {
 
