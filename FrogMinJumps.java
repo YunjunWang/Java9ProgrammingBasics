@@ -2,6 +2,7 @@
 * finding the minum jumps
 * by given start position X, target position Y
 * and each jump D
+* @author Yunjun Wang
 */
 
 public class FrogMinJumps {
