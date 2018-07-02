@@ -1,7 +1,7 @@
 
 public class MinimumDifferenceTapeP {
 	public int solution(int[] A) {
-        // write your code in Java SE 8
+        // code in Java SE 8
 		
 		int N = A.length;
 		
