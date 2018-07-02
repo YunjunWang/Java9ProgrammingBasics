@@ -1,4 +1,5 @@
 /**
+* Find the minimun difference between the sum(A[0] ~ A[P-1]) and sum(A[p] ~ A[N-1])
 * @author Yunjun Wang
 */ 
 public class MinimumDifferenceTapeP {
