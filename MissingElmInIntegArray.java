@@ -1,13 +1,14 @@
 /**
 * find the missing element(> 0) in an integer array A[N]
 * where the value of the element is not in the index of the A
+* (-1 < A[i] < (N + 1))
 * @author Yunjun Wang
 */
 
 public class MissingElmInIntegArray {
 	public int solution(int[] A) {
-    // code in Java SE 8
-    // currently only consider A[i] >= 0
+    		// code in Java SE 8
+    		// currently only consider A[i] >= 0
 		int missElm = 0;
 		long N = A.length;
 		long sumArr = 0;
@@ -18,8 +19,6 @@ public class MissingElmInIntegArray {
 		}
 		
 		missElm = (int)(sum - sumArr);
-    
-    //TODO: scenarios with A[i] is negative value
 		
 		return missElm;
     }
