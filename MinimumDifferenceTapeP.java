@@ -1,4 +1,6 @@
-
+/**
+* @author Yunjun Wang
+*/ 
 public class MinimumDifferenceTapeP {
 	public int solution(int[] A) {
         // code in Java SE 8
