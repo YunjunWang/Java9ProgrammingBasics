@@ -1,6 +1,6 @@
 /**
  * Rotate an integer array A[N] K times
- * @author Yunjun
+ * @author Yunjun Wang
  * correctness 100%
  */
 public class RotateArrayRightKTimes {
